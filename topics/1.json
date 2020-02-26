@@ -26,7 +26,14 @@
             "type": "text",
             "data": [
                 {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
+                    @startuml
+
+                    (First usecase)
+                    (Another usecase) as (UC2)  
+                    usecase UC3
+                    usecase (Last\nusecase) as UC4
+                    
+                    @enduml
                 }
             ]
         },
