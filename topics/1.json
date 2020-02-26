@@ -23,9 +23,8 @@
             ]
         },
         {
-            "type": "text",
-            "data": [
-                {
+            
+                
                     @startuml
 
                     (First usecase)
@@ -34,8 +33,7 @@
                     usecase (Last\nusecase) as UC4
                     
                     @enduml
-                }
-            ]
+            
         },
         {
             "type": "image",
