@@ -14,7 +14,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью 2 "
+                    "text": "Диаграмма создана с помощью 3 "
                 },
                 {
                     "text": "PlantUML",
@@ -24,7 +24,7 @@
         },
         {
             "type": "image",
-            "data": "![blah](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://github.com/NLarin/NLarin-page/blob/master/data/lab1.txt)"
+            "data": "http://www.plantuml.com/plantuml/proxy?idx=0&src=https://github.com/NLarin/NLarin-page/blob/master/data/lab1.txt"
         },
         {
             "type": "text",
