@@ -14,7 +14,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью 4 "
+                    "text": "Диаграмма создана с помощью 5 "
                 },
                 {
                     "text": "PlantUML",
@@ -24,7 +24,7 @@
         },
         {
             "type": "image",
-            "data": "http://www.plantuml.com/plantuml/proxy?idx=0&src=https://github.com/NLarin/NLarin-page/blob/master/data/lab1"
+            "data": "http://www.plantuml.com/plantuml/png/fSwnJWCn30RWkNuAgnCCbNW01BqodvIDEKfC6pM9AyS18SgxO-uuk9qXalFvb-rzKo_QIuPsJlNYnHVqGLdm0pO77yv7uLxZ4sUZvrDIWiqWmc-p7B95BCWIITRqkPhN6mNVwDyJCxqeAgEauqan9g6WYIlCzxexz0st5vB6zN7xe-EiXMFFzAjkmh_Gybqk7IQmPdfD-cuDXxiTtWotOE-x7C7MtL-jSZ0QN1zi4-ofnbxo5m00"
         },
         {
             "type": "text",
